@@ -18,4 +18,4 @@
 - 🤖 Learning how AI/ML systems work
 
 ## Connect With Me
-- 💼 [LinkedIn](https://linkedin.com) ← update this with your LinkedIn URL
+- 💼 https://www.linkedin.com/in/prakethb/
