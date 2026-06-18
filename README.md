@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Praketh Bachu 👋
 
-<!--
-**Praketh123/Praketh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔧 Hardware Validation Engineer at LTI Mindtree, working on Azure servers for Microsoft
+- 🖥️ My work involves testing physical servers, firmware updates, BIOS/BMC configuration, OS installations, and stress testing
+- 🌱 Currently learning AI/ML Engineering and Azure AI
+- 🎯 Goal: Transition into AI Engineering within the next year
+- 📍 Based in Bellevue, Washington, USA
 
-Here are some ideas to get you started:
+## Tech & Tools
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- 📚 Sharpening Python skills
+- ☁️ Preparing for Azure AI Fundamentals (AI-900) certification
+- 🤖 Learning how AI/ML systems work
+
+## Connect With Me
+- 💼 [LinkedIn](https://linkedin.com) ← update this with your LinkedIn URL
